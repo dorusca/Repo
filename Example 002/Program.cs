@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Введите ваше имя: ");
+﻿/* прогорамма запрашивает имя пользователя, но любимчика приветствует особенно.*/
+
+
+
+Console.WriteLine("Введите ваше имя: ");
 string username = Console.ReadLine ();
 
 if (username == "маша")
